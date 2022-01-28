@@ -17,7 +17,7 @@
     <Button
         android:id="@+id/button"
         android:layout_width="308dp"
-        android:layout_height="40dp"
+        android:layout_height="48dp"
         android:layout_marginTop="16dp"
         android:text="fart"
         app:layout_constraintEnd_toEndOf="parent"
@@ -27,7 +27,7 @@
     <Button
         android:id="@+id/button2"
         android:layout_width="299dp"
-        android:layout_height="47dp"
+        android:layout_height="48dp"
         android:layout_marginTop="16dp"
         android:text="nigger"
         app:layout_constraintEnd_toEndOf="parent"

@@ -3,14 +3,10 @@ package com.inthecatsdreams.ouoijio;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Context;
-import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
-import android.provider.MediaStore;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
-import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     Context context = this;
@@ -47,4 +43,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+    
 }
